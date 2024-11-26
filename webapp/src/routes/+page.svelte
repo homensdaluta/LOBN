@@ -1,8 +1,6 @@
 <script>
-	import Nav from "$lib/Nav.svelte";
-	import Table from "$lib/Table.svelte";
+	import Nava from "$lib/Nava.svelte";
 </script>
 
-<Nav></Nav>
 
-<Table/>
+<Nava></Nava>
